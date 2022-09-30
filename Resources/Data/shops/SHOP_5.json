@@ -1,0 +1,132 @@
+[
+ {
+   "ItemId": 800000011,
+   "Cost": 1000000,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 800000025,
+   "Cost": 500000,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 800000026,
+   "Cost": 1500000,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 800000012,
+   "Cost": 500000,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 800000027,
+   "Cost": 3000000,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 1000000034,
+   "Cost": 1000000,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 800000034,
+   "Cost": 100000,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 800000035,
+   "Cost": 300000,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 800000036,
+   "Cost": 100000,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 800000037,
+   "Cost": 300000,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 1000000321,
+   "Cost": 50000,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 1000000323,
+   "Cost": 5000000,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 1000000325,
+   "Cost": 10000000,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ }
+]

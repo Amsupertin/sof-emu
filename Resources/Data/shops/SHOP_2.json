@@ -1,7 +1,7 @@
 [
  {
-   "ItemId": 1000000101,
-   "Cost": 80,
+   "ItemId": 100200002,
+   "Cost": 1400,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -10,8 +10,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1000000102,
-   "Cost": 200,
+   "ItemId": 100200003,
+   "Cost": 2800,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -20,8 +20,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1000000103,
-   "Cost": 500,
+   "ItemId": 100200006,
+   "Cost": 25000,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -30,8 +30,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1000000104,
-   "Cost": 120,
+   "ItemId": 100200009,
+   "Cost": 243500,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -40,8 +40,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1000000106,
-   "Cost": 600,
+   "ItemId": 200200002,
+   "Cost": 1400,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -50,8 +50,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1000000110,
-   "Cost": 1000,
+   "ItemId": 200200003,
+   "Cost": 2800,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -60,8 +60,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1000000111,
-   "Cost": 6000,
+   "ItemId": 200200006,
+   "Cost": 25000,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -70,8 +70,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1000000112,
-   "Cost": 6000,
+   "ItemId": 200200009,
+   "Cost": 243500,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -80,8 +80,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 900000302,
-   "Cost": 2000000,
+   "ItemId": 300200002,
+   "Cost": 1400,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -90,8 +90,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 900000303,
-   "Cost": 5000000,
+   "ItemId": 300200003,
+   "Cost": 2800,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -100,8 +100,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1000000700,
-   "Cost": 10000,
+   "ItemId": 300200006,
+   "Cost": 25000,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -110,8 +110,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1000000866,
-   "Cost": 2000000,
+   "ItemId": 300200009,
+   "Cost": 243500,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -120,8 +120,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1000000185,
-   "Cost": 1500,
+   "ItemId": 400200002,
+   "Cost": 1400,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -130,8 +130,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1000000186,
-   "Cost": 1800,
+   "ItemId": 400200003,
+   "Cost": 2800,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -140,8 +140,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1000000969,
-   "Cost": 4500,
+   "ItemId": 400200006,
+   "Cost": 25000,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -150,8 +150,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1000000970,
-   "Cost": 4800,
+   "ItemId": 400200009,
+   "Cost": 243500,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -160,8 +160,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1000000971,
-   "Cost": 4800,
+   "ItemId": 500200002,
+   "Cost": 1400,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -170,8 +170,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1000000972,
-   "Cost": 5100,
+   "ItemId": 500200003,
+   "Cost": 2800,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -180,8 +180,78 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1008000118,
-   "Cost": 10000000,
+   "ItemId": 500200006,
+   "Cost": 25000,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 500200009,
+   "Cost": 243500,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 700200002,
+   "Cost": 1400,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 700200003,
+   "Cost": 2800,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 700200006,
+   "Cost": 25000,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 700200009,
+   "Cost": 243500,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 800200010,
+   "Cost": 627000,
+   "Skill_1": 0,
+   "Skill_2": 0,
+   "Skill_3": 0,
+   "Skill_4": 0,
+   "Skill_5": 0,
+   "RequireSkill": 0
+ },
+ {
+   "ItemId": 900200010,
+   "Cost": 627000,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -200,8 +270,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1000000149,
-   "Cost": 10,
+   "ItemId": 800000006,
+   "Cost": 100000,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,
@@ -210,128 +280,8 @@
    "RequireSkill": 0
  },
  {
-   "ItemId": 1000000150,
-   "Cost": 25,
-   "Skill_1": 0,
-   "Skill_2": 0,
-   "Skill_3": 0,
-   "Skill_4": 0,
-   "Skill_5": 0,
-   "RequireSkill": 0
- },
- {
-   "ItemId": 1000000151,
-   "Cost": 45,
-   "Skill_1": 0,
-   "Skill_2": 0,
-   "Skill_3": 0,
-   "Skill_4": 0,
-   "Skill_5": 0,
-   "RequireSkill": 0
- },
- {
-   "ItemId": 1000000152,
-   "Cost": 60,
-   "Skill_1": 0,
-   "Skill_2": 0,
-   "Skill_3": 0,
-   "Skill_4": 0,
-   "Skill_5": 0,
-   "RequireSkill": 0
- },
- {
-   "ItemId": 1000000153,
-   "Cost": 35,
-   "Skill_1": 0,
-   "Skill_2": 0,
-   "Skill_3": 0,
-   "Skill_4": 0,
-   "Skill_5": 0,
-   "RequireSkill": 0
- },
- {
-   "ItemId": 1000001536,
-   "Cost": 1000,
-   "Skill_1": 0,
-   "Skill_2": 0,
-   "Skill_3": 0,
-   "Skill_4": 0,
-   "Skill_5": 0,
-   "RequireSkill": 0
- },
- {
-   "ItemId": 1000001537,
-   "Cost": 1200,
-   "Skill_1": 0,
-   "Skill_2": 0,
-   "Skill_3": 0,
-   "Skill_4": 0,
-   "Skill_5": 0,
-   "RequireSkill": 0
- },
- {
-   "ItemId": 1000001538,
-   "Cost": 1300,
-   "Skill_1": 0,
-   "Skill_2": 0,
-   "Skill_3": 0,
-   "Skill_4": 0,
-   "Skill_5": 0,
-   "RequireSkill": 0
- },
- {
-   "ItemId": 1000001539,
-   "Cost": 1500,
-   "Skill_1": 0,
-   "Skill_2": 0,
-   "Skill_3": 0,
-   "Skill_4": 0,
-   "Skill_5": 0,
-   "RequireSkill": 0
- },
- {
-   "ItemId": 1000001540,
-   "Cost": 1500,
-   "Skill_1": 0,
-   "Skill_2": 0,
-   "Skill_3": 0,
-   "Skill_4": 0,
-   "Skill_5": 0,
-   "RequireSkill": 0
- },
- {
-   "ItemId": 1000000992,
-   "Cost": 1000,
-   "Skill_1": 0,
-   "Skill_2": 0,
-   "Skill_3": 0,
-   "Skill_4": 0,
-   "Skill_5": 0,
-   "RequireSkill": 0
- },
- {
-   "ItemId": 1000000993,
-   "Cost": 1200,
-   "Skill_1": 0,
-   "Skill_2": 0,
-   "Skill_3": 0,
-   "Skill_4": 0,
-   "Skill_5": 0,
-   "RequireSkill": 0
- },
- {
-   "ItemId": 1000000994,
-   "Cost": 1300,
-   "Skill_1": 0,
-   "Skill_2": 0,
-   "Skill_3": 0,
-   "Skill_4": 0,
-   "Skill_5": 0,
-   "RequireSkill": 0
- },
- {
-   "ItemId": 1000000995,
-   "Cost": 1500,
+   "ItemId": 800000060,
+   "Cost": 1000000,
    "Skill_1": 0,
    "Skill_2": 0,
    "Skill_3": 0,

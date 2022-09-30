@@ -1,0 +1,73 @@
+[
+	{
+	"ItemId": 1000000154,
+	"Cost": 10000,
+	"Skill_1": 0,
+	"Skill_2": 0,
+	"Skill_3": 0,
+	"Skill_4": 0,
+	"Skill_5": 0,
+	"RequireSkill": 0
+	},
+	{
+	"ItemId": 1000000910,
+	"Cost": 1000,
+	"Skill_1": 0,
+	"Skill_2": 0,
+	"Skill_3": 0,
+	"Skill_4": 0,
+	"Skill_5": 0,
+	"RequireSkill": 0
+	},
+	{
+	"ItemId": 1000000911,
+	"Cost": 1000,
+	"Skill_1": 0,
+	"Skill_2": 0,
+	"Skill_3": 0,
+	"Skill_4": 0,
+	"Skill_5": 0,
+	"RequireSkill": 0
+	},
+	{
+	"ItemId": 1000000912,
+	"Cost": 1000,
+	"Skill_1": 0,
+	"Skill_2": 0,
+	"Skill_3": 0,
+	"Skill_4": 0,
+	"Skill_5": 0,
+	"RequireSkill": 0
+	},
+	{
+	"ItemId": 1000000913,
+	"Cost": 1000,
+	"Skill_1": 0,
+	"Skill_2": 0,
+	"Skill_3": 0,
+	"Skill_4": 0,
+	"Skill_5": 0,
+	"RequireSkill": 0
+	},
+	{
+	"ItemId": 1000000914,
+	"Cost": 1000,
+	"Skill_1": 0,
+	"Skill_2": 0,
+	"Skill_3": 0,
+	"Skill_4": 0,
+	"Skill_5": 0,
+	"RequireSkill": 0
+	},
+	{
+	"ItemId": 1000000915,
+	"Cost": 1000,
+	"Skill_1": 0,
+	"Skill_2": 0,
+	"Skill_3": 0,
+	"Skill_4": 0,
+	"Skill_5": 0,
+	"RequireSkill": 0
+	}
+]
+
